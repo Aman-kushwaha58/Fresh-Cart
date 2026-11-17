@@ -52,7 +52,7 @@ FreshCart is a modern, full-stack online grocery e-commerce platform built with 
 
 ## Connecting an External Supabase Project (Optional)
 
-Active runtime persistence in AI Studio is connected directly to **Cloud SQL for PostgreSQL** via Drizzle ORM and Express. If you also want to deploy with an external Supabase project:
+ **Cloud SQL for PostgreSQL**  If you also want to deploy with an external Supabase project:
 
 1. Create a project at [supabase.com](https://supabase.com).
 2. Run `supabase/01_schema.sql`, `supabase/02_rls_policies.sql`, and `supabase/03_functions_triggers.sql` in the Supabase SQL Editor.
