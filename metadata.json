@@ -1,0 +1,6 @@
+{
+  "name": "FreshCart",
+  "description": "Fresh groceries delivered to your doorstep. Full-stack online grocery shopping platform with curated organic produce, dairy, bakery, pantry staples, checkout, order tracking, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
